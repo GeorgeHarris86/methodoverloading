@@ -1,0 +1,14 @@
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.exe
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.deps.json
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.runtimeconfig.json
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.dll
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.pdb
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.dll
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\refint\MethodOverloading.dll
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.pdb
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.genruntimeconfig.cache
+C:\Users\geoha\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0\ref\MethodOverloading.dll
